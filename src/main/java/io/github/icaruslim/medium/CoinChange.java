@@ -1,6 +1,11 @@
-package main.java;
+package io.github.icaruslim.medium;
 
 import java.util.Arrays;
+
+/**
+ * CoinChange
+ * https://leetcode.cn/problems/coin-change/description/
+ */
 
 public class CoinChange {
     public int coinChange(int[] coins, int amount) {

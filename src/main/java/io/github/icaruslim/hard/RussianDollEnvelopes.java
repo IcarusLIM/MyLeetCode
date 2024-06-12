@@ -1,9 +1,13 @@
-package main.java;
+package io.github.icaruslim.hard;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.List;
+
+/**
+ * RussianDollEnvelopes
+ * https://leetcode.cn/problems/russian-doll-envelopes/description/
+ */
 
 public class RussianDollEnvelopes {
     public int maxEnvelopes(int[][] envelopes) {

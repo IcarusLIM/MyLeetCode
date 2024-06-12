@@ -1,6 +1,11 @@
-package main.java;
+package io.github.icaruslim.hard;
 
 import java.util.Arrays;
+
+/**
+ * CreateMaximumNumber
+ * https://leetcode.cn/problems/create-maximum-number/description/
+ */
 
 public class CreateMaximumNumber {
 

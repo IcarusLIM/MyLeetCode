@@ -1,4 +1,9 @@
-package main.java;
+package io.github.icaruslim.hard;
+
+/**
+ * RegularExpressionMatching
+ * https://leetcode.cn/problems/regular-expression-matching/description/
+ */
 
 public class RegularExpressionMatching {
 

@@ -1,7 +1,12 @@
-package main.java;
+package io.github.icaruslim.medium;
 
 import java.util.HashMap;
 import java.util.Map;
+
+/**
+ * MaximumSizeSubarraySumEqualsK
+ * https://leetcode.cn/problems/maximum-size-subarray-sum-equals-k/description/
+ */
 
 public class MaximumSizeSubarraySumEqualsK {
 

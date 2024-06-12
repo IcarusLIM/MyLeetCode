@@ -1,4 +1,9 @@
-package main.java;
+package io.github.icaruslim.medium;
+
+/**
+ * LongestAbsoluteFilePath
+ * https://leetcode.cn/problems/longest-absolute-file-path/description/
+ */
 
 public class LongestAbsoluteFilePath {
     public int lengthLongestPath(String input) {

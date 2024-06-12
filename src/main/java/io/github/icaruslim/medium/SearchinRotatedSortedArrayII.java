@@ -1,6 +1,9 @@
-package main.java;
+package io.github.icaruslim.medium;
 
-import java.util.Arrays;
+/**
+ * SearchinRotatedSortedArrayII
+ * https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/description/
+ */
 
 public class SearchinRotatedSortedArrayII {
     public boolean search(int[] nums, int target) {

@@ -1,6 +1,11 @@
-package main.java;
+package io.github.icaruslim.hard;
 
 import java.util.Arrays;
+
+/**
+ * MinimumWindowSubstring
+ * https://leetcode.cn/problems/minimum-window-substring/description/
+ */
 
 public class MinimumWindowSubstring {
 
